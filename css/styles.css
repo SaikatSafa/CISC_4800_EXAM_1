@@ -15,5 +15,9 @@ table, th, td {
 }
 
 body {
-  padding: 0px 300px 0px 300px;
+  padding: 0px 500px 0px 500px;
+}
+
+.underline {
+  text-decoration: underline;
 }
